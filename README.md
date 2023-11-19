@@ -10,6 +10,9 @@ The WebRTC Chat Application is a real-time communication platform developed usin
 ## Technologies Used
 - WebRTC
 - NodeJs
+- JavaScript
+- HTML
+- CSS
 
 ## Tools
 - Visual Studio
